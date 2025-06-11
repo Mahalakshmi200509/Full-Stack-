@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>Resume</head>
+  <title>Portfolio</title>
+  <body>
+    <h1>Name:</h1>
+    <p>Mahalakshmi L</p>
+    <h1>Date of Birth:</h1>
+    <p>02.11.2005</p>
+    <h2>Qualification:</h2>
+    <p>Currently College Student</p>
+    <h3>Skills:</h3>
+    <p>Good in Computer Programming,word, excel, Python</p>
+    <h4>Interest:</h4>
+    <p>Web Developer</p>
+    <h5>Address:</h5>
+    <p>T.N Street, Chennai -81.</p>
+    <h6>Contact:</p>
+      <p>7435790107</p>
+  </body>
+</html>
