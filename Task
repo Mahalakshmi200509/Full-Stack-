@@ -28,6 +28,15 @@
       <li>Python mini projects</a></li>
       <li>Digital Resume</a></li>
     </ol>
+    <form>
+      <label for="name">Name</label>
+    </form>
+    <input type="text" id="name" name="name">
+    <form>
+      <label for="Register no">Register Number</label>
+    </form>
+    <input type="number" id="reg no" name="reg no">
+    <button type="submit">Submit</button>
     <h4>Interest:</h4>
     <p>Web Developer</p>
     <h5>Address:</h5>
