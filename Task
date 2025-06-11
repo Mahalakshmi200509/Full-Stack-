@@ -4,41 +4,31 @@
   <title>Portfolio</title>
   <body>
     <h1>Name:</h1>
-     <p>Mahalakshmi L</p>
-     <h1>Date of Birth:</h1>
-
-<p>02.11.2005</p>
-
-<h2>Qualification:</h2>
-
-<p>Currently College Student</p>
-
-<h3>Skills:</h3>
-<ul></ul>
-<li>Good in Computer Programming</li>
-<li>Word</li>
-<li>Excel</li>
-<li>PowerPoint</li>
-<li>Python</li>
-<h2>Projects</h2>
-            <ol>
-                <li><a href="#">Git and GitHub</a></li>
-                <li><a href="#">Project using a HTML and CSS</a></li> 
-                 <li><a href="#">Python mini projects</a></li>
-                 <li><a href="#">Digital Resume</a></li>
-</ol>
-<h4>Interest:</h4>
-
-<p>Web Developer</p>
-
-<h5>Address:</h5>
-
-<p>T.N Street, Chennai -81.</p>
-
-<h6>Contact:</p>
-
-<p>7435790107</p>
-
-</body>
-
+    <p>Mahalakshmi L</p>
+    <h1>Date of Birth:</h1>
+    <p>02.11.2005</p>
+    <h2>Qualification:</h2>
+    <p>Currently College Student</p>
+    <h3>Skills:</h3>
+    <ul>
+      <li>Good in Computer Programming</li>
+      <li>Word</li>
+      <li>Excel</li>
+      <li>PowerPoint</li>
+      <li>Python</li>
+    </ul>
+    <h3>Projects</h3>
+    <ol>
+      <li>Git and GitHub</a></li>
+      <li>Project using a HTML and CSS</a></li> 
+      <li>Python mini projects</a></li>
+      <li>Digital Resume</a></li>
+    </ol>
+    <h4>Interest:</h4>
+    <p>Web Developer</p>
+    <h5>Address:</h5>
+    <p>T.N Street, Chennai -81.</p>
+    <h6>Contact:</p>
+    <p>7435790107</p>
+  </body>
 </html>
